@@ -3,7 +3,7 @@
 .App {
   text-align: center;
   border: 10px solid #f0f0ff4f;
-  border-radius: 100px 500px 0px 100px;
+  border-radius: 100px 300px 0px 100px;
   background-color: #F0F0FF;
   width: 80%;
   display: block;
@@ -21,11 +21,10 @@ h1, .buttons, p, ul, li, img {
   display: flex;
   justify-content: space-around;
   font-family: 'Work Sans', sans-serif;
-  
 }
 
 p {
-padding: 30px 100px;
+padding: 30px 30px;
 
 }
 

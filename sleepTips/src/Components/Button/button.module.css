@@ -6,3 +6,11 @@
     box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
     margin: 20px 0;
 }
+
+.buttons:hover{
+    cursor: pointer;
+    background-color: #6C63FF;
+    color: white;
+    transition: ease-in-out;
+    transition-duration: 1s;
+}
