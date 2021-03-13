@@ -1,0 +1,10 @@
+.list {
+    list-style-type: none;
+    padding: 0;
+    text-align: left;
+}
+
+.item {
+    padding: 10px 25px;
+    
+}

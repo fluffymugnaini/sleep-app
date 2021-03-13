@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Work+Sans:wght@300&display=swap');
+
+.App {
+  text-align: center;
+  border: 10px solid #f0f0ff4f;
+  border-radius: 100px 500px 0px 100px;
+  background-color: #F0F0FF;
+  width: 80%;
+  display: block;
+  margin: 40px auto;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1.2em;
+}
+/* 
+h1, .buttons, p, ul, li, img {
+  background-color: #F0F0FF;
+  border-radius: 100px;
+} */
+
+.buttons{
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Work Sans', sans-serif;
+  
+}
+
+p {
+padding: 30px 100px;
+
+}
+
+.thanks {
+  color: #F9795B;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 900;
+}
+
+h1 {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 2em;
+}
+
